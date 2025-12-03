@@ -6,6 +6,19 @@
 
 > *"Stay curious, stay paranoid, stay incognito."*
 
+### 🛟 Homelab & Daily Drivers (WIP – forever escaping the normieverse)
+
+| Thing                  | Current Setup                                      | Future / Dream Plan                                      |
+|-----------------------|----------------------------------------------------|----------------------------------------------------------|
+| **Daily Laptop**      | HP EliteBook 8460p → macOS Sequoia (Hackintosh)   | Keep the legend alive forever                            |
+| **Main Desktop**      | Windows 11 LTSC (telemetry murdered, debloated)   | rEFInd triple-boot: Arch / Kali / Win11 LTSC            |
+| **Phone**             | iPhone 13 (stock… for now)                         | GrapheneOS or fully de-Googled Linux phone when usable   |
+| **Old phones**        | Miss my ParanoidAndroid / CyanogenMod / Lineage days 😔 | Still have a drawer of Xiaomi/OnePlus devices ready to resurrect |
+| **File Server**       | ThinkCentre Edge 91Z – 14 TB – Kodi SMB shares     | Migrate to TrueNAS Scale + iSCSI/PXE for net-booting everything |
+| **End Goal**          | Zero proprietary daily OS, everything self-hosted & air-gapped when possible | Full homelab with Proxmox + TrueNAS + PXE + Tailscale zero-trust |
+
+> “I don’t want my devices phoning home… I want them phoning *my* home.”
+
 ### 🔍 About Me
 - Passionate about **Cybersecurity**, low-level systems, and breaking things (responsibly)
 - Currently diving deep into **reverse engineering**, **exploit development**, and **secure coding**
