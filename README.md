@@ -10,10 +10,10 @@
 
 | Thing                  | Current Setup                                      | Future / Dream Plan                                      |
 |-----------------------|----------------------------------------------------|----------------------------------------------------------|
-| **Daily Laptop**      | Surface Laptop Go  → CachyOS | keeping them cores cooking                            |
-| **Backup Laptop**     | HP EliteBook 8460p → macOS Sequoia (Hackintosh)   | Keep the legend alive forever                            |
+| **Daily Laptop**      | Surface Laptop Go  → CachyOS → macOS Sequoia | keeping them cores cooking                            |
+| **Backup Laptop**     | HP EliteBook 8460p → macOS Sequoia   | Keep the legend alive forever                            |
 | **Main Desktop**      | Windows 11 LTSC (telemetry murdered, debloated) CachyOS w/Limine Bootlader  | NixOS Maybe            |
-| **Phone**             | iPhone 13 iOS 26.2 (stock… for now) test nugget soon                        | GrapheneOS or fully de-Googled Linux phone when usable   |
+| **Phone**             | iPhone 13 iOS 26.2 (stock… for now) test nugget soon                        | GrapheneOS or Linux phone, Repair Fold 4 (rip)   |
 | **Old phones**        | Miss my ParanoidAndroid / CyanogenMod / Lineage days 😔 | LineageOS on S5 w/no screen |
 | **File Server**       | ThinkCentre Edge 91Z – 14 TB – Kodi,Home Assistant, Pi-Hole SMB shares     | Migrate to TrueNAS Scale + iSCSI/PXE for net-booting everything, setup nextcloud |
 | **End Goal**          | Zero proprietary daily OS, everything self-hosted & air-gapped when possible | Full homelab with Proxmox + TrueNAS + PXE + Tailscale zero-trust |
