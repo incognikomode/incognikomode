@@ -15,7 +15,7 @@
 | **Main Desktop**      | Windows 11 LTSC (telemetry murdered, debloated) CachyOS w/Limine Bootlader  | NixOS Maybe            |
 | **Phone**             | iPhone 13 iOS 26.2 (stock… for now) test nugget soon                        | GrapheneOS or fully de-Googled Linux phone when usable   |
 | **Old phones**        | Miss my ParanoidAndroid / CyanogenMod / Lineage days 😔 | LineageOS on S5 w/no screen |
-| **File Server**       | ThinkCentre Edge 91Z – 14 TB – Kodi SMB shares     | Migrate to TrueNAS Scale + iSCSI/PXE for net-booting everything |
+| **File Server**       | ThinkCentre Edge 91Z – 14 TB – Kodi,Home Assistant, Pi-Hole SMB shares     | Migrate to TrueNAS Scale + iSCSI/PXE for net-booting everything, setup nextcloud |
 | **End Goal**          | Zero proprietary daily OS, everything self-hosted & air-gapped when possible | Full homelab with Proxmox + TrueNAS + PXE + Tailscale zero-trust |
 
 > “I don’t want my devices phoning home… I want them phoning *my* home.”
